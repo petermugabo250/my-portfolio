@@ -229,6 +229,9 @@ figure {
     #colorlib-main {
       width: 100%;
       padding: 0 1em; } }
+      #colorlib-main background-image{
+        background-size: cover;
+      }
 
 #colorlib-hero {
   min-height: 500px;
